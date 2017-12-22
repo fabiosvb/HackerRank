@@ -13,7 +13,6 @@ public class TwoDArray_DS {
 		}
 		
 		int maxSum =  Integer.MIN_VALUE; 
-		//System.out.println("aaaa");
 		for (int i = 0; i< 6; i++) {
 			for (int j = 0; j < 6; j++) { 
 				int sum = getHourGlassSum(arr, i, j);
