@@ -3,7 +3,7 @@ package algorithms.dynamicProgramming;
 import java.util.Scanner;
 
 public class HackerRankCity {
-
+	// implementing
 	public static void main (String[] arg) {
 		Scanner in = new Scanner(System.in);
 		int n = in.nextInt();
