@@ -1,6 +1,6 @@
 package funcionalProgramming.thirtyDaysOfCode
 
-object Day5_Loops {
+object Day6_LetsReview {
 
     def main(args: Array[String]) {
         var s = "Hacker"

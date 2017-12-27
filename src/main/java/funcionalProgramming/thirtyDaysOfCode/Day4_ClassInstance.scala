@@ -1,6 +1,6 @@
 package funcionalProgramming.thirtyDaysOfCode
 
-class Day3_IntroToConditionalStatements {
+class Day4_ClassInstance {
 
     var age: Int = 0
     

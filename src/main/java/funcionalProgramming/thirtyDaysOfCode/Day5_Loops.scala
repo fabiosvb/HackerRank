@@ -1,6 +1,6 @@
 package funcionalProgramming.thirtyDaysOfCode
 
-object Day6_LetsReview {
+object Day5_Loops {
 
     def main(args: Array[String]) {
         val sc = new java.util.Scanner(System.in);

@@ -2,7 +2,7 @@ package funcionalProgramming.thirtyDaysOfCode
 
 import scala.io.StdIn
 
-object Day4_ClassInstance {
+object Day3_IntroToConditionalStatements {
     def main(args: Array[String]) {
         val n: Int = StdIn.readInt();
         var ans = "";
