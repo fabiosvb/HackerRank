@@ -6,5 +6,6 @@ b = np.array([10, 25, 17, 11, 13, 17, 20, 13, 9, 15])
 
 slope, intercept, r_value, p_value, std_err = stats.linregress(a,b)
 
-print ('%.3f' % slope)
-print (0.208)
+print ((slope * 10) + intercept)
+print ('%.3f' % 15.4583333333)
+print (15.458) 
